@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "SHUBHAM SUTAR",
+  "author": "SIVA BALAN",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-arduino-uno", "id": "uno", "top": 47.25, "left": -190.82, "attrs": {} },
