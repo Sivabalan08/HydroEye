@@ -1,5 +1,5 @@
 # HydroEye
-Project: Water Level Controller for Thermal Industry Tank
+Project: Water Level Controller for Thermal Industry Tank(MINI PROJECT)
 
 This project is used to check and control the water level in a thermal industry storage tank. An ultrasonic sensor measures the water level and shows the percentage on an LCD display.
 
