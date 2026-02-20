@@ -1,4 +1,4 @@
-#💧 HydroEye
+💧 HydroEye
 
 Topic:Smart Water Level Controller for Thermal Industry Tank(Mini Project)
 
@@ -41,5 +41,7 @@ Protects pump from dry running
 Reduces manual monitoring
 
 Saves energy and cost
+
+
 
 HydroEye improves efficiency, safety, and reliability in industrial water management systems.
